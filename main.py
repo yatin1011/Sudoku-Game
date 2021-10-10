@@ -119,5 +119,3 @@ def main():
                 return
 
 main()
-
-print(grid)
